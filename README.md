@@ -5,7 +5,7 @@ The dataset used in this project is one found on Kaggle with  Spotify tracks ove
 
 ## Authors
 
-* **Silvia Chen** - *Columbia Engineer*
+* **Silvia Chen** - *Columbia Engineering*
 
 ## License
 
