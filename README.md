@@ -1,7 +1,6 @@
-# Music Recommendation System
 
-Machine learning algorithms have been used a lot to understand what makes a song popular and how to promote it effectively.
-The dataset used in this project is one found on Kaggle with  Spotify tracks over a range of 125 different genres, and each track has some audio features associated with it. There are in total 20 columns in this dataset: except for the common ones like artist, track name, album name, there are also more professional and music-related columns like energy, acousticness, danceability, tempo, and likeness. Based on that, I made a recommendation system that could return a playlist of 10 songs with the greatest cosine similarity with the specific track input.
+
+This repo serves as a comprehensive storage space for my course materials, lecture notes, homework assignments, project details, and supplementary resources
 
 ## Authors
 
