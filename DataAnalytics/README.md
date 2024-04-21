@@ -11,4 +11,4 @@ The dataset we used in this project is one found on Kaggle with  Spotify tracks 
 
 ## Results:
 
-<img src="image.jpg">
+<img src="image.png">
