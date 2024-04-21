@@ -11,4 +11,4 @@ The dataset we used in this project is one found on Kaggle with  Spotify tracks 
 
 ## Results:
 
-<img src="https://github.com/ycsilvia/Coursework/blob/main/DataAnalytics/Example%20of%20result%20of%20the%20recommended%20system.jpg">
+<img src="image.jpg">
